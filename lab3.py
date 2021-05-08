@@ -1,0 +1,6 @@
+first = int(input("Первая переменная: "))
+second = int(input("Вторая переменная: "))
+print("first + second = ", first+second)
+print("first - second = ", first-second)
+print("first * second = ", first*second)
+print("first / second = ", first/second)
